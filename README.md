@@ -41,3 +41,12 @@ Use the Left and Right Arrow keys to move Katch in the respective direction to c
 <img src="uml2.png" alt="UML!" width="100%"/>
 
 ## GAMEPLAY
+
+### LEVEL 1
+<img src="SUPER1.gif" alt="Gameplay1!" width="70%"/>
+
+### LEVEL 2
+<img src="SUPER2.gif" alt="Gameplay2!" width="70%"/>
+
+### LEVEL 3
+<img src="SUPER3.gif" alt="Gameplay3!" width="70%"/>

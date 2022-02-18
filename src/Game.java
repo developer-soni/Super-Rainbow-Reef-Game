@@ -23,7 +23,7 @@ public class Game extends JPanel
     private Control cntrl;
     private Pop pop;
     private double pace = 0;
-    private Rectangle2D.Double popRec;c
+    private Rectangle2D.Double popRec;
     private Rectangle2D.Double blocksRec;
     private Rectangle2D.Double catchRec;
     private Rectangle borderL;
